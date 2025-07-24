@@ -5,7 +5,7 @@ export default function Home() {
 
   
   return (
-       <main>
+       <main className="min-h-screen flex justify-center bg-gray-50 py-8 px-2">
         {/* <div className="flex gap-35 w-full h-[100px] bg-gray-500 items-center">
          <h1 className="italic font-bold text-5xl text-red-700 px-2">Winnies</h1>
          <div className="font-bold uppercase flex gap-10 text-2xl text-white">

@@ -20,7 +20,7 @@ export default function Navbar () {
             <ul className="hidden md:flex gap-10 font-semibold cursor-pointer">
                 <li><Link href="#">Add-Order</Link></li>
                 <li><Link href="#">Profile</Link></li>
-                <li><Link href="#">Order-List</Link></li>
+                <li><Link href="#">Orders</Link></li>
             </ul>
            <Link href=""> <p className="hidden md:block h-[40px} w-[120px} bg-blue-400 text-white text-center rounded-lg">SignUp</p> </Link>
 
